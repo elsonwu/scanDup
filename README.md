@@ -1,0 +1,2 @@
+# scanDup
+Scan duplicated files
